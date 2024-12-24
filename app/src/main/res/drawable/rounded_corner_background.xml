@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <shape xmlns:android="http://schemas.android.com/apk/res/android">
+        <solid android:color="#2E003E" /> <!-- Cor de fundo roxa escura -->
+        <corners android:radius="8dp" />
+        <stroke android:color="#9C27B0" android:width="2dp" /> <!-- Borda roxa -->
+    </shape>
+</selector>
